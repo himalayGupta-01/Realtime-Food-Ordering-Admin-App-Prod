@@ -28,7 +28,7 @@ const Header = (props) => {
     }
 
     const nonLoggedInLink = () => {
-        return (
+        return ( 
             <Nav>
                 {/* <Nav.Link to='#deets'>Signin</Nav.Link> */}
                 <li className="nav-item">
